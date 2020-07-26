@@ -1,5 +1,5 @@
 ### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=Fanduzi.readme)
-![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=false)
+![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
 <!--
 **Fanduzi/Fanduzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
