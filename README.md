@@ -4,6 +4,12 @@
   <img width="100%" src="https://github.com/Fanduzi/Figure_bed/blob/master/keyboards/think6.5/WechatIMG835.jpeg?raw=true" alt="cover" />
 </div>
 
+
+### About Me
+一个菜🐓dba, 全不栈工程师
+~~[CSDN博客](http://blog.csdn.net/ashic)~~
+[MY BADGES](https://www.youracclaim.com/users/boshi-fan)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Fanduzi.readme)
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
