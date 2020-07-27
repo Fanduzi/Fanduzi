@@ -5,6 +5,7 @@
 </div>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Fanduzi.readme)
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
 
 <!--
