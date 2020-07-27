@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=Fanduzi.readme)
+### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there! [](https://visitor-badge.laobi.icu/badge?page_id=Fanduzi.readme)
 ![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
 
 <!--
