@@ -1,7 +1,10 @@
-### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there! [](https://visitor-badge.laobi.icu/badge?page_id=Fanduzi.readme)
+<div align="center">
+  <img width="100%" src="https://github.com/Fanduzi/Figure_bed/blob/master/keyboards/think6.5/WechatIMG835.jpeg?raw=true" alt="cover" />
+</div>
+
+### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there! ![](https://visitor-badge.laobi.icu/badge?page_id=Fanduzi.readme)
 ![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanduzi&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Fanduzi/Fanduzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
