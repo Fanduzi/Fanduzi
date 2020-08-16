@@ -17,19 +17,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 125 Contributions in year 2020
+> 🏆 125 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 29 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    23 commits     █████████░░░░░░░░░░░░░░░░   35.94% 
@@ -38,7 +38,7 @@
 🌙 Night      22 commits     ████████░░░░░░░░░░░░░░░░░   34.38%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       27 commits     ██████████░░░░░░░░░░░░░░░   42.19% 
@@ -52,30 +52,30 @@ Sunday       9 commits      ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
-💬 Languages: 
+💬 Programming Languages: 
 Bash                     5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.77% 
 Python                   3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31% 
 CSS                      2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
 HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
 Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 
-🔥 Editors: 
+🔥 Code Editors: 
 PyCharm                  9 hrs 7 mins        ███████████████░░░░░░░░░░   60.15% 
 VS Code                  4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.93% 
 Sublime Text             1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
 Atom                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      15 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   7 repos             ██████████████░░░░░░░░░░░   58.33% 
