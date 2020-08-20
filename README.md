@@ -15,19 +15,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 125 Contributions in the year 2020
+> 🏆 125 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public repositories
+> 📜 29 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -52,10 +52,10 @@ Sunday       9 commits      ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Shanghai
+⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 Bash                     5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.77% 
@@ -64,7 +64,7 @@ CSS                      2 hrs 34 mins       ████░░░░░░░�
 HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
 Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 
-🔥 Code Editors: 
+🔥 Editors: 
 PyCharm                  9 hrs 7 mins        ███████████████░░░░░░░░░░   60.15% 
 VS Code                  4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.93% 
 Sublime Text             1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
