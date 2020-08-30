@@ -15,11 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 118 Contributions in the Year 2020
+> 🏆 120 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
