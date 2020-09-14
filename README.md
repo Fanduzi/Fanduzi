@@ -14,9 +14,9 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
