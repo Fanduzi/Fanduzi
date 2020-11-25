@@ -89,7 +89,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Fanduzi/Fanduzi/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Fanduzi/Fanduzi/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
