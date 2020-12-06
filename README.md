@@ -26,9 +26,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories
+> 📜 30 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+30 Private Repository 
  > 
 **I'm an Early 🐤** 
 
