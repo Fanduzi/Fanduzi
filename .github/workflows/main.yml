@@ -4,7 +4,10 @@ on:
   schedule:
     # Runs at 0am CST
     - cron: '00 16 * * *'
-
+  repository_dispatch:
+    # 这里的类型是可以自定义的，我将它起名为：special_repository
+    types: [special_repository]
+    
 jobs:
   update-readme:
     name: Update Readme with Metrics
