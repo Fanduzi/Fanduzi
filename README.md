@@ -20,13 +20,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 70 Contributions in the Year 2021
+> 🏆 71 Contributions in the Year 2021
  > 
 > 📦 147.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -90,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fanduzi/Fanduzi/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 
 <!--
