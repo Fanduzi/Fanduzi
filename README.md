@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fanduzi/Fanduzi/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 16:34:57 UTC
+ Last Updated on 12/03/2022 16:32:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
