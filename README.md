@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -61,13 +61,17 @@ Sunday       34 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 hrs 5 mins        ██████████████████████░░░   88.58% 
+textmate                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   2 hrs 22 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +88,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2022 16:40:09 UTC
+ Last Updated on 09/10/2022 17:33:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
