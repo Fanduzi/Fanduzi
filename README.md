@@ -15,13 +15,13 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 164.3 kB Used in GitHub's Storage 
+> 📦 164.2 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2023
  > 
@@ -77,7 +77,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2023 13:23:44 UTC
+ Last Updated on 23/04/2023 14:19:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
