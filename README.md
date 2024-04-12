@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C111%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C111%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,14 +48,18 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       11 mins             ████████████████████████░   95.76 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Go                       14 mins             ███████████████████░░░░░░   77.34 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-GoLand                   12 mins             █████████████████████████   100.00 % 
+GoLand                   16 mins             ██████████████████████░░░   89.03 % 
+PyCharm                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +75,7 @@ SQLPL                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2024 16:21:30 UTC
+ Last Updated on 12/04/2024 17:17:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
