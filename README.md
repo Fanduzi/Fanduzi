@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C114%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,13 +50,17 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     20 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
+Go                       15 mins             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Makefile                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +76,7 @@ SQLPL                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2024 16:24:44 UTC
+ Last Updated on 03/07/2024 17:16:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
