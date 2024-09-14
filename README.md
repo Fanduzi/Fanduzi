@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C138%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -66,17 +66,17 @@ Mac                      3 hrs 45 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             █████████████░░░░░░░░░░░░   53.33 % 
-Shell                    3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-SQLPL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Go                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Shell                    3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+SQLPL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 14/09/2024 07:18:41 UTC
+ Last Updated on 14/09/2024 08:27:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
