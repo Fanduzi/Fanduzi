@@ -15,15 +15,13 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 169.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,13 +32,13 @@
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Friday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Thursday                 78 commits          █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Friday                   90 commits          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Saturday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Sunday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 ```
 
 
@@ -77,7 +75,7 @@ SQLPL                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 03:17:17 UTC
+ Last Updated on 20/05/2025 04:30:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
