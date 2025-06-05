@@ -15,9 +15,9 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C190%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C196%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,38 +31,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Friday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   5 hrs 1 min         █████████████████████████   99.73 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-PyCharm                  5 hrs 2 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 hrs 2 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -76,7 +44,7 @@ SQLPL                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2025 11:22:43 UTC
+ Last Updated on 05/06/2025 11:22:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
