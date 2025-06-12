@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C198%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C198%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -31,39 +31,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Friday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       1 hr 45 mins        █████████████░░░░░░░░░░░░   52.23 % 
-Python                   1 hr 35 mins        ████████████░░░░░░░░░░░░░   47.34 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-🔥 Editors: 
-GoLand                   1 hr 46 mins        █████████████░░░░░░░░░░░░   52.70 % 
-PyCharm                  1 hr 35 mins        ████████████░░░░░░░░░░░░░   47.30 % 
-
-💻 Operating System: 
-Mac                      3 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +44,7 @@ SQLPL                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 16:32:39 UTC
+ Last Updated on 12/06/2025 17:23:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
