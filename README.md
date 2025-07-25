@@ -50,15 +50,13 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       20 mins             ███████████████████████░░   92.07 % 
-SQL                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +72,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 16:35:12 UTC
+ Last Updated on 25/07/2025 17:27:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
