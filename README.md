@@ -50,13 +50,13 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +72,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 16:34:36 UTC
+ Last Updated on 20/11/2025 17:21:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
