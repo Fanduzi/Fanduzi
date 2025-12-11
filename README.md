@@ -23,7 +23,7 @@
 
 > 📦 170.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,16 +50,13 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       29 mins             ██████████████████░░░░░░░   73.63 % 
-Python                   10 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   29 mins             ██████████████████░░░░░░░   73.63 % 
-PyCharm                  10 mins             ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +72,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2025 16:40:23 UTC
+ Last Updated on 11/12/2025 17:32:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
