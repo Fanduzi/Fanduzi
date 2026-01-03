@@ -15,6 +15,8 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C228%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
@@ -29,6 +31,34 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Friday                   93 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Sunday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +72,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 08:35:42 UTC
+ Last Updated on 03/01/2026 09:27:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
