@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C231%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C233%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
@@ -31,37 +31,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Friday                   97 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Sunday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       1 hr 2 mins         ███████████████████████░░   92.38 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-🔥 Editors: 
-GoLand                   1 hr 8 mins         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -75,7 +44,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 16:50:57 UTC
+ Last Updated on 30/01/2026 17:40:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
