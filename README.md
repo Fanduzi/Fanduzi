@@ -15,9 +15,9 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C255%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,18 +50,18 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Go                       3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
+Python                   2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+YAML                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 43 mins       ██████████████░░░░░░░░░░░   54.42 % 
-GoLand                   3 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.58 % 
+GoLand                   5 hrs 1 min         █████████████░░░░░░░░░░░░   51.50 % 
+PyCharm                  4 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.50 % 
 
 💻 Operating System: 
-Mac                      8 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +77,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2026 16:39:22 UTC
+ Last Updated on 15/02/2026 17:32:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
