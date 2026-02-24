@@ -15,9 +15,9 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,15 +50,17 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 min               █████████████████████████   98.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Go                       1 hr 7 mins         ███████████████████░░░░░░   76.94 % 
+textmate                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+SQL                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+INI                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-GoLand                   1 min               █████████████████████████   100.00 % 
+GoLand                   1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +76,7 @@ SQLPL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 16:06:45 UTC
+ Last Updated on 24/02/2026 18:01:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
