@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C270%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
@@ -31,34 +31,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Tuesday                  198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Wednesday                145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Thursday                 230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Friday                   307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Saturday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Sunday                   317 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -72,7 +44,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2026 17:02:19 UTC
+ Last Updated on 10/04/2026 17:57:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
