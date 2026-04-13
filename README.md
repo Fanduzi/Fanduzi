@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C275%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
@@ -50,17 +50,17 @@ Sunday                   354 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
-Markdown                 3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
-Python                   1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other                    5 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.99 % 
+Markdown                 3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Python                   1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-GoLand                   9 hrs 10 mins       █████████████████████████   100.00 % 
+GoLand                   11 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +76,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 17:13:32 UTC
+ Last Updated on 13/04/2026 19:23:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
