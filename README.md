@@ -23,7 +23,7 @@
 
 > 📦 727.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,268 Contributions in the Year 2026
+> 🏆 1,269 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,20 +59,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Python** 
 
 ```text
-Go                       8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Ruby                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Go                       8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Ruby                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 23:39:58 UTC
+ Last Updated on 28/05/2026 04:17:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
