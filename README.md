@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C362%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C362%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,11 +23,11 @@
 
 > 📦 728.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,308 Contributions in the Year 2026
+> 🏆 1,311 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -59,20 +59,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Go** 
 
 ```text
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Go                       8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Ruby                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Go                       9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Ruby                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 31/05/2026 15:27:32 UTC
+ Last Updated on 31/05/2026 17:20:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
