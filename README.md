@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C362%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C362%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,39 +31,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Thursday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Friday                   483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Saturday                 444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Sunday                   557 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       29 mins             █████████████████████░░░░   85.08 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-Claude Code              20 mins             ███████████████░░░░░░░░░░   59.47 % 
-GoLand                   14 mins             ██████████░░░░░░░░░░░░░░░   40.53 % 
-
-💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -77,7 +44,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2026 18:53:38 UTC
+ Last Updated on 02/06/2026 21:59:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
