@@ -15,7 +15,7 @@
 [![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanduzi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C362%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C369%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -31,41 +31,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Wednesday                366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Thursday                 557 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Friday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   557 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Markdown                 3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
-Go                       2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-
-🔥 Editors: 
-Claude Code              10 hrs 57 mins      ████████████████████████░   97.88 % 
-GoLand                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Mac                      11 hrs 12 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -79,7 +44,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 18:57:12 UTC
+ Last Updated on 03/06/2026 22:00:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
